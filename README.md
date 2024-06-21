@@ -1,4 +1,3 @@
 👋 Hi, I’m @hcanovas
-👀 I’m interested in Dev, Invest, Tech.
-🌱 I’m currently learning more about AWS.
+👀 I’m interested in Management, Tech, Startups & Invest.
 📫 How to reach me hola@hcanovas.com
